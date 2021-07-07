@@ -18,7 +18,7 @@
 	"ngx-toastr":"0.0.1",
 	"angular-ui-router":"1.0.29",
 	"angular-strap":"2.3.6",
-	"ui-select":"0.19.5",
+	"ui-select":"0.20.0",
 	"reveal":"3.6.0",
 	"canvg": "0.5.0",
 	"font-awesome": "4.7.0",
